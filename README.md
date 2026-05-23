@@ -1,2 +1,2 @@
-# AnikaKale.github.io
+# anikakale.github.io
 
