@@ -12,29 +12,52 @@
     </nav>
 
     <div class="container">
-        <h1>Chain-Driven Zoltar Sculpture</h1>
+        <h1>Chain-Driven Zoltar Kinetic Display</h1>
         
         <div class="skills-tags">
-            <span class="tag">Onshape</span>
+            <span class="tag">Onshape Assemblies</span>
             <span class="tag">Mechanical Prototyping</span>
             <span class="tag">Sprocket Spacing</span>
-            <span class="tag">Plasma Cutter Fabricating</span>
+            <span class="tag">Plasma Cutting</span>
         </div>
 
-        <h2>Project Goal</h2>
-        <p>Design and integrate a robust chain-driven mechanism connecting a rotating mystic ball with an interactive Zoltar display, optimizing layout constraints to reduce friction and eliminate system stalling.</p>
+        <h2>1. Problem & Story</h2>
+        <p>Create a chain-driven kinetic display coordinating motion between a rotating mystic ball, a fortune-dispensing mechanism, and interactive character components driven by a single motor setup.</p>
+
+        <h2>2. Constraints & Requirements</h2>
+        <ul>
+            <li><strong>Fixed Chain Path:</strong> Chain layout had to clear internal housing while engaging multiple sprockets simultaneously.</li>
+            <li><strong>Tolerance Management:</strong> Interdependent linkages required tight alignment tolerances across 3D-printed, laser-cut, and metal components.</li>
+        </ul>
+
+        <h2>3. Design & Iteration Process</h2>
+        <p>Subsystem functionality was isolated using physical proof-of-concept models for the fortune wheel, mystic ball, and ticket slider mechanisms before merging into the main assembly.</p>
+        
+        <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+            <img src="Team Proj 2/FortuneWheelPrototype.jpg" alt="Fortune Wheel Prototype" style="max-width: 31%; height: auto; border-radius: 4px;">
+            <img src="Team Proj 2/MysticBallPrototype.jpg" alt="Mystic Ball Prototype" style="max-width: 31%; height: auto; border-radius: 4px;">
+            <img src="Team Proj 2/TicketSliderPrototype.jpg" alt="Ticket Slider Prototype" style="max-width: 31%; height: auto; border-radius: 4px;">
+        </div>
 
         <div class="challenge-box">
             <h3>Engineering Challenges & Solutions</h3>
             <ul>
-                <li><strong>Chain Alignment & Friction Control:</strong> Uneven sprocket spacing and incorrect dowel materials caused binding. Added physical spacers and refined mounting heights to minimize resistance.</li>
-                <li><strong>Assembly Integration:</strong> Small alignment shifts immediately affected neighboring components. Adjusted clearancing and repositioned mounts to preserve smooth motion transfer.</li>
-                <li><strong>Structural Stability:</strong> Standard hardware was insufficient for stable component mounting. Fabricated custom mounting plates on the plasma cutter to securely lock alignment.</li>
+                <li><strong>Sprocket Alignment & Friction:</strong> Uneven sprocket spacing caused chain binding. Calculated offset distances and incorporated precision spacers to maintain planar alignment.</li>
+                <li><strong>Interdependent Clearance:</strong> Repositioned mounting points and modified internal clearancing to allow simultaneous rotation of the mystic ball and fortune wheel without collisions.</li>
             </ul>
         </div>
 
-        <h2>Reflection</h2>
-        <p>Prototyping was essential to handle interdependent tolerances across multiple moving components. Managing timelines and tracking mechanical variations showed me that physical validation should happen alongside CAD modeling to discover alignment restrictions early.</p>
+        <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+            <img src="Team Proj 2/ChainGoingAroundTwoGears.jpg" alt="Chain Routing" style="max-width: 48%; height: auto; border-radius: 4px;">
+            <img src="Team Proj 2/CloseupOfWorkingTicketSlider.jpg" alt="Ticket Slider Detail" style="max-width: 48%; height: auto; border-radius: 4px;">
+        </div>
+
+        <h2>4. Results</h2>
+        <p>Delivered a fully integrated kinetic display operating continuously on a single drive loop with minimal friction losses.</p>
+        <img src="Team Proj 2/FinalProduct.jpg" alt="Final Zoltar Sculpture" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 4px;">
+
+        <h2>5. Lessons Learned & Reflections</h2>
+        <p>Physical tolerances often deviate from ideal CAD constraints. Testing drive loads physically alongside assembly modeling allowed us to correct alignment issues early in the build cycle.</p>
     </div>
 </body>
 </html>

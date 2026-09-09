@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Automotive Lighting | Anika Kale</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <strong>Anika Kale</strong>
+        <a href="index.html">&larr; Back to Projects</a>
+    </nav>
+
+    <div class="container">
+        <h1>Custom Automotive Ambient Light Integration</h1>
+        
+        <div class="skills-tags">
+            <span class="tag">Automotive Electronics</span>
+            <span class="tag">Soldering & Heat Shrink</span>
+            <span class="tag">Fuse Tapping & Step-Down</span>
+            <span class="tag">Chassis Grounding</span>
+        </div>
+
+        <h2>1. Problem & Passion Goal</h2>
+        <p>Integrate an off-the-shelf interior light system directly into my personal vehicle's power infrastructure, eliminating the clunky cigarette-lighter adapter to create a clean, hardwired installation powered safely through the fuse box.</p>
+
+        <h2>2. Constraints & Requirements</h2>
+        <ul>
+            <li><strong>Voltage Step-Down & Protection:</strong> The automotive fuse slot operates at a higher voltage than the 5V LED system requirement, requiring safe voltage regulation and correct current protection.</li>
+            <li><strong>Switched Power Source:</strong> Power needed to be drawn from a circuit that only activates when the ignition is turned on (like the windshield wiper circuit) to prevent battery drain while parked.</li>
+            <li><strong>Vibration-Proof Mechanical Joints:</strong> Automotive applications experience constant vibration, making secure electrical connections essential to prevent intermittent power failure.</li>
+            <li><strong>Reversible Installation:</strong> Avoid cutting into factory vehicle wiring harnesses by leveraging modular fuse-tapping hardware and non-destructive chassis grounding points.</li>
+        </ul>
+
+        <h2>3. Design & Execution Process</h2>
+        <p>The project involved converting a consumer 12V adapter unit into a hardwired circuit by modifying power lines, reworking connection points, installing circuit isolation hardware, and completing a low-resistance return path.</p>
+
+        <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+            <img src="Car Lights/RemovingFuse.jpg" alt="Removing the windshield wiper fuse" style="max-width: 48%; height: auto; border-radius: 4px;">
+            <img src="Car Lights/StrippingCordToPositiveAndNegative.jpg" alt="Stripping cord into positive and negative leads" style="max-width: 48%; height: auto; border-radius: 4px;">
+        </div>
+
+        <div class="challenge-box">
+            <h3>Engineering Challenges & Execution</h3>
+            <ul>
+                <li><strong>Wire Conversion & Harness Modification:</strong> Cut off the standard cigarette-lighter plug and stripped the power leads to isolate the positive (+) feed and negative (-) ground lines.</li>
+                <li><strong>Joint Failure & Soldering Pivot:</strong> The fuse tap's built-in press/crimp connection failed to secure the small-gauge positive wire reliably. Removed the stock crimp connector, mechanically joined and soldered the positive wire directly to the fuse tap lead for maximum physical strength, and insulated the joint using heat-shrink tubing.</li>
+                <li><strong>Switched Circuit Selection & Fuse Tapping:</strong> Selected the switched windshield wiper circuit fuse slot using pliers to pull the stock fuse, then installed an add-a-circuit fuse tap. Placed an appropriate lower-amperage fuse for the 5V light system alongside the factory wiper fuse to maintain circuit isolation and protection.</li>
+                <li><strong>Chassis Grounding:</strong> Identified a clean, unpainted bare-metal chassis bolt to attach the negative lead using a terminal lug, ensuring a solid ground loop free of paint interference.</li>
+            </ul>
+        </div>
+
+        <!-- FABRICATION & WIRING GALLERY -->
+        <h3>Circuit Modification & Installation Steps</h3>
+        <div style="display: flex; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+            <img src="Car Lights/AttachingPositiveToFuseTap.jpg" alt="Attaching positive wire to fuse tap" style="max-width: 31%; height: auto; border-radius: 4px;">
+            <img src="Car Lights/HeatShrunkCoveringFromFuseTaptoPositive.jpg" alt="Heat-shrink covering over soldered fuse tap joint" style="max-width: 31%; height: auto; border-radius: 4px;">
+            <img src="Car Lights/ImageOfGroundedNegative.jpg" alt="Negative wire grounded to chassis bolt" style="max-width: 31%; height: auto; border-radius: 4px;">
+        </div>
+
+        <h2>4. Results</h2>
+        <p>Successfully hardwired a clean interior lighting setup that seamlessly turns on and off with the car ignition. The custom soldered splice and insulated joint ensured a durable connection unaffected by vehicle vibration, while the circuit remains safely hidden beneath the interior dash panels with zero exposed wiring.</p>
+        
+        <img src="Car Lights/FinalProduct.jpg" alt="Final Installed Ambient Lighting" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 4px;">
+
+        <h2>5. What I Learned</h2>
+        <p>This hands-on personal project reinforced practical knowledge in automotive power distribution, switched vs. constant circuits, and proper circuit protection. Overcoming the unreliable crimp connector by soldering and heat-shrinking demonstrated the value of evaluating physical connection integrity in high-vibration mechanical environments.</p>
+    </div>
+</body>
+</html>
