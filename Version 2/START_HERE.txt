@@ -1,0 +1,79 @@
+ANIKA KALE - COMPLETE VERSION 2 WEBSITE
+Prepared October 10, 2026
+
+SAVE THE FILES HERE
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2
+
+These are complete pages with finished text. You do not need to edit HTML.
+The personal-writing prompts are in the chat response. Send your answers
+there later and the pages can be updated for you.
+
+EXTRACT AND OPEN
+1. Extract the CONTENTS of the ZIP directly into the Version 2 folder above.
+2. Keep all eight HTML files, style.css and portfolio.js together in that folder.
+3. Copy your existing Images folder, containing the six project folders, into
+   Version 2. Keep every photograph's name and project folder unchanged.
+4. Double-click Version 2\index.html to open the homepage in your browser.
+
+Do not create an extra Version 2 folder inside Version 2 during extraction.
+The archive contains empty image directories for organization; it does not
+contain your actual photographs, which were not attached.
+
+EXACT HTML SAVE PATHS
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\index.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\about.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\baja-splash-shield.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\zoltar-sculpture.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\arctic-predator.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\bevel-carousal.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\car_lights.html
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\diwali-box.html
+
+EXACT SUPPORT-FILE SAVE PATHS
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\style.css
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\portfolio.js
+
+IMAGES
+The folder is named Images with a capital I, matching your Windows example.
+For example:
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\Professional_FinalProject_Picture.jpg
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\FinalProduct.jpg
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\FinalProduct.jpg
+
+HTML references use relative web paths such as:
+Images/Automata/Professional_FinalProject_Picture.jpg
+
+Relative web paths use forward slashes and work from this local folder as
+well as when the same folder structure is published. No C:\Users path is
+embedded in the website code.
+
+The two FinalProduct.jpg images stay in their separate project folders.
+Keep Images, the project folder names, and every filename exactly as shown
+in ASSET_CHECKLIST.txt, including their capitalization.
+
+Your example Automata_brainstorm_sketch.jpg can remain in Images\Automata.
+Only photographs referenced by your original HTML are displayed in these
+pages; the example filename was not added as a new gallery item.
+
+FILES TO KEEP TOGETHER
+- All eight HTML files
+- style.css (required for the design)
+- portfolio.js (image enlargement and project filters)
+- Images, containing your existing project folders and photographs
+
+The two TXT files are instructions for you; the website does not link to them.
+The earlier rewrite workbook and rewrite-mode interface are not part of
+this package. All visible sections contain complete prose.
+
+LATER CONTENT UPDATES
+Answer the questions in the chat using ordinary text. A portrait, video,
+resume link, project dates, personal responsibilities and other new facts
+can be added when you provide the actual information or assets.
+No invented dates, test measurements, resume or portrait were added.
+
+CHECKS
+Source checks cover all page links, section anchors, original image-path
+preservation, HTML structure and JavaScript syntax. Photos were not attached,
+so their existence, crops and appearance on your computer cannot be verified
+here. The browser preview environment was unavailable; a browser-based
+visual and interaction check has not been claimed.

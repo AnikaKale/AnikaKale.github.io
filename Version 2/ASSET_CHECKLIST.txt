@@ -1,0 +1,99 @@
+VERSION 2 - ORIGINAL IMAGE FILENAMES AND NEW LOCATIONS
+
+Copy your existing Images folder into:
+C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2
+
+Keep these existing subfolders and filenames. No photographs are included in this ZIP.
+
+HTML path: Images/Automata/Automata_full_draft_sketch.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\Automata_full_draft_sketch.jpg
+
+HTML path: Images/Automata/Closeup_of_BevelGears.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\Closeup_of_BevelGears.jpg
+
+HTML path: Images/Automata/Closeup_of_HorseAssembly.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\Closeup_of_HorseAssembly.jpg
+
+HTML path: Images/Automata/Professional_FinalProject_Picture.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\Professional_FinalProject_Picture.jpg
+
+HTML path: Images/Automata/SidebySide_two_chip_board_models.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Automata\SidebySide_two_chip_board_models.jpg
+
+HTML path: Images/Baja Splash Shield/CAD_Prototype1.png
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Baja Splash Shield\CAD_Prototype1.png
+
+HTML path: Images/Baja Splash Shield/CAD_Prototype2.png
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Baja Splash Shield\CAD_Prototype2.png
+
+HTML path: Images/Baja Splash Shield/CAD_Prototype3.png
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Baja Splash Shield\CAD_Prototype3.png
+
+HTML path: Images/Baja Splash Shield/FinalAssembly_OnCar.png
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Baja Splash Shield\FinalAssembly_OnCar.png
+
+HTML path: Images/Box/Final_Box.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Box\Final_Box.jpg
+
+HTML path: Images/Box/beginning_of_assembly.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Box\beginning_of_assembly.jpg
+
+HTML path: Images/Box/box_initial_sketch.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Box\box_initial_sketch.jpg
+
+HTML path: Images/Box/box_prototype_profilepic.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Box\box_prototype_profilepic.jpg
+
+HTML path: Images/Box/laser_cut_action_view.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Box\laser_cut_action_view.jpg
+
+HTML path: Images/Car Lights/AttachingPositiveToFuseTap.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\AttachingPositiveToFuseTap.jpg
+
+HTML path: Images/Car Lights/FinalProduct.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\FinalProduct.jpg
+
+HTML path: Images/Car Lights/HeatShrunkCoveringFromFuseTaptoPositive.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\HeatShrunkCoveringFromFuseTaptoPositive.jpg
+
+HTML path: Images/Car Lights/ImageOfGroundedNegative.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\ImageOfGroundedNegative.jpg
+
+HTML path: Images/Car Lights/RemovingFuse.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\RemovingFuse.jpg
+
+HTML path: Images/Car Lights/StrippingCordToPositiveAndNegative.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Car Lights\StrippingCordToPositiveAndNegative.jpg
+
+HTML path: Images/Team Proj 1/Final_Product.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 1\Final_Product.jpg
+
+HTML path: Images/Team Proj 1/Pre-Project_Plan_Whiteboard.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 1\Pre-Project_Plan_Whiteboard.jpg
+
+HTML path: Images/Team Proj 1/SuperCloseup_of_Mechanism.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 1\SuperCloseup_of_Mechanism.jpg
+
+HTML path: Images/Team Proj 1/SuperCloseup_of_Mechanism_2.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 1\SuperCloseup_of_Mechanism_2.jpg
+
+HTML path: Images/Team Proj 1/Teamwork.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 1\Teamwork.jpg
+
+HTML path: Images/Team Proj 2/ChainGoingAroundTwoGears.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\ChainGoingAroundTwoGears.jpg
+
+HTML path: Images/Team Proj 2/CloseupOfWorkingTicketSlider.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\CloseupOfWorkingTicketSlider.jpg
+
+HTML path: Images/Team Proj 2/FinalProduct.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\FinalProduct.jpg
+
+HTML path: Images/Team Proj 2/FortuneWheelPrototype.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\FortuneWheelPrototype.jpg
+
+HTML path: Images/Team Proj 2/MysticBallPrototype.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\MysticBallPrototype.jpg
+
+HTML path: Images/Team Proj 2/TicketSliderPrototype.jpg
+Save at:   C:\Users\anika\Github Portfolio Pages\AnikaKale.github.io\Version 2\Images\Team Proj 2\TicketSliderPrototype.jpg
