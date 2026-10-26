@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A custom engine-bay splash shield developed through CAD reviews, panel fabrication, and assembly features for a Baja SAE car.">
+  <meta name="description" content="A custom splash shield designed to fit between the fuel tank and engine of our existing Baja SAE car to protect the engine from stray fuel and keep the driver safe.">
   <meta name="theme-color" content="#173e36">
   <title>Baja SAE splash shield | Anika Kale</title>
   <link rel="stylesheet" href="style.css">
@@ -31,19 +31,19 @@
     <section class="project-hero" aria-labelledby="project-title">
       <a class="back-link" href="index.html#projects"><span aria-hidden="true">←</span> All projects</a>
       <div class="project-heading">
-        <div><p class="eyebrow">Project 01 <span class="dot" aria-hidden="true"></span> Vehicle integration</p>
+        <div><p class="eyebrow">Project 01 <span class="dot" aria-hidden="true"></span> Designing with Constraints</p>
           <h1 id="project-title">Baja SAE splash shield</h1>
         </div>
         
     <div class="project-intro">
-      <p>A custom splash shield designed to fit between the fuel tank and engine of a Baja SAE car. The project combined CAD modeling, panel fabrication, and mounting features within the existing chassis.</p>
+      <p>A custom splash shield designed to fit between the fuel tank and engine of our existing Baja SAE car to protect the engine from stray fuel and keep the driver safe.</p>
     </div>
     
       </div>
 
       <dl class="project-facts">
-        <div><dt>Focus</dt><dd>Packaging, runoff geometry &amp; mounting</dd></div>
-        <div><dt>Tools & methods</dt><dd>CAD modeling, sheet fabrication, tabs &amp; jigs</dd></div>
+        <div><dt>Focus</dt><dd>Packaging, runoff geometry &amp; mounting hardware</dd></div>
+        <div><dt>Tools &amp; methods</dt><dd>CAD modeling, sheet fabrication, tabs &amp; jigs</dd></div>
         <div><dt>Context</dt><dd>Baja SAE</dd></div>
       </dl>
       <figure class="hero-figure">
@@ -57,29 +57,38 @@
     <div class="project-layout">
       <aside class="project-nav" aria-label="On this page">
         <p class="eyebrow">Inside the project</p>
-        <a href="#constraints"><span>01</span> The constraints</a>
-        <a href="#decisions"><span>02</span> Design decisions</a>
-        <a href="#outcome"><span>03</span> The outcome</a>
-        <a href="#reflection"><span>04</span> What I learned</a>
+        <a href="#constraints"><span>01</span> Constraints</a>
+        <a href="#decisions"><span>02</span> Design iterations</a>
+        <a href="#outcome"><span>03</span> Fabrication &amp; troubleshooting</a>
+        <a href="#reflection"><span>04</span> Takeaways</a>
       </aside>
       <article aria-label="Baja SAE splash shield project details">
         <section class="case-section" id="constraints">
-          <h2>The constraints</h2>
-          
-    <div>
-      <ul class="constraint-list"><li><strong>Existing geometry.</strong> Fit between the fuel tank, engine, and tubular frame without obstructing surrounding components.</li>
-<li><strong>Runoff path.</strong> Shape the panels to direct spills toward the sides or rear of the vehicle.</li>
-<li><strong>Assembly access.</strong> Make the panel geometry and mounting features practical to fabricate and assemble.</li></ul>
-    </div>
-    
+          <h2>Constraints</h2>
+          <ul class="constraint-list">
+            <li><strong>Existing geometry:</strong> Needed to fit in between the fuel tank and engine while being able to be assembled considering the existing tubular frame.</li>
+            <li><strong>Runoff path:</strong> All fuel must be directed off the sides or rear of the vehicle, must be fully constructed of metal at least 0.02 in thick</li>
+            <li><strong>Engine Clearance:</strong> Must have 13 mm clearance to the exhaust and be mounted below structural member for the fuel tank</li>
+          </ul>
         </section>
         <section class="case-section" id="decisions">
-          <h2>Design decisions</h2>
-          
-    <div>
-      <div class="decision"><h3>Work around the existing chassis</h3><p>The design developed into an assembly of roughly 15–20 parts, combining HDPE panels and aluminum mounting brackets. Several CAD revisions addressed the limited space between the fuel tank, engine, and tubular frame. Design reviews with teammates helped refine the panel shapes and clearances.</p></div>
-<div class="decision"><h3>Make the parts easier to assemble</h3><p>Custom jigs and self-locating tabs were developed to help position the parts during bending and assembly. These features made alignment part of the design rather than something left entirely to the final assembly.</p></div>
-    </div>
+          <h2>Design Iterations: Learning to Design for Manufacturing</h2>
+          <div class="decision">
+            <p>My design went through three major revisions as I learned to design for manufacturing</p>
+          </div>
+          <div class="decision">
+            <h3>Version 1</h3>
+            <p>I modeled a five piece splash guard.</p>
+            <p>In my first design review, a teammate asked, "Why five parts?" and I didn’t have a good answer. They mentioned that more pieces means more unnecessary effort both to fab the parts and then also to put it together.</p>
+          </div>
+          <div class="decision">
+            <h3>Version 2</h3>
+            <p>I went back to the drawing board and reduced the design to three pieces. During the next review, I was asked if I was sure fuel wouldn’t come in contact with the engine. A senior engineer on the team pointed out how fuel directed off the back would still hit the engine as the frame of our car jutted out farther than I had expected.</p>
+          </div>
+          <div class="decision">
+            <h3>Version 3</h3>
+            <p>My final version looked completely different from the first two. It was a single piece designed specifically for a sheet metal brake, that directed all fuel fully off the sides of the car where there was a wide clearance between the sides of the splash guard and the engine.</p>
+          </div>
 
           <div class="gallery three"><figure>
       <a class="image-link" href="Images/Baja Splash Shield/CAD_Prototype1.png" aria-label="Enlarge: First splash shield CAD iteration"><div class="media tone-sage contain">
@@ -105,20 +114,27 @@
 
         </section>
         <section class="case-section" id="outcome">
-          <h2>The outcome</h2>
-          
-    <div class="outcome-box">
-      <p>The completed shield was mounted in the engine bay. Its panel shapes were intended to guide spills toward the sides and rear of the vehicle while fitting around the surrounding components.</p>
-    </div>
-    
+          <h2>Fabrication &amp; Hands-On Troubleshooting</h2>
+          <div class="decision">
+            <p>Before I cut the splash guard, I got to manufacture the firewall to learn how to use the CNC plasma cutter.</p>
+          </div>
+          <div class="decision">
+            <h3>Plasma Cutting Battles</h3>
+            <p>Cutting the firewall took three attempts and eight total hours across three days. We lost the material on the first try, used the wrong material on the second, and finally succeeded on the third, but only after fighting with unconstrained legacy CAD files that confused the machine’s software.</p>
+          </div>
+          <div class="decision">
+            <h3>Sheet Metal Bending</h3>
+            <p>Bending the final splash guard came with its own issues. My part had tight geometry that I hadn't considered in CAD, so it took a few tries, and some advice from shop staff, to get right.</p>
+          </div>
+          <div class="decision">
+            <h3>Tabs and Jigs</h3>
+            <p>The hardest part of the entire project was attaching the guard. The mounting tabs all had to sit on angled chassis tubes. I learned how to create custom construction planes in Onshape to model them, then spent a couple of hours with my Project Manager figuring out how to construct the oddly fit tabs and their physical jigs to get everything ready for our welder.</p>
+          </div>
         </section>
         <section class="case-section" id="reflection">
-          <h2>What I learned</h2>
-          
-    <div>
-      <p class="reflection">This project taught me to bring clearance questions into design reviews early. It also showed me how tabs and jigs can make the transition from a CAD model to a physical assembly easier.</p>
-    </div>
-    
+          <h2>Takeaways</h2>
+          <p class="reflection">This project opened my world up to CAD and taught me some important lessons early on. I realized you can't only draw something that fits digitally, but also design based on what the machines can actually do in the shop and compare the ease of fabrication to the benefits a more challenging design brings.</p>
+          <p class="reflection">But, most importantly, I learned how to recognize when I was stuck and then ask the right people for help so I could keep moving.</p>
         </section>
       </article>
     </div>
